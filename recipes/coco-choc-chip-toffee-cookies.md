@@ -10,6 +10,7 @@
 Preheat an oven to 350° F and line a cookie sheet with parchment paper.
 ### Ingredients
 
+
 | Amt. | Ingredient |
 | ----------- | ----------- |
 | ¾ c | coconut oil |
