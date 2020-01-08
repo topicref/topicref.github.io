@@ -26,7 +26,7 @@ Preheat an oven to 350° F and line a cookie sheet with parchment paper.
 
 ### Directions
 1. In a small bowl, combine the flour, baking powder, and salt.
-2. In a large bowl, beat together the coconut oil and sugars until they are light and fluffy. 
+2. In a large bowl, beat together the coconut oil and sugars until the mixture is light and fluffy. 
 3. Add the eggs one at a time, beating well after each addition. 
 4. Mix in the vanilla.
 5. Slowly add the flour mixture to the wet mixture. 
