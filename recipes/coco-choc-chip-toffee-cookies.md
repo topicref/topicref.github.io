@@ -30,7 +30,7 @@ Preheat an oven to 350° F and line a cookie sheet with parchment paper.
 3. Add the eggs one at a time, beating well after each addition. 
 4. Mix in the vanilla.
 5. Slowly add the flour mixture to the wet mixture. 
-6. Stir in the chocolate chips and toffee bits by hand.
+6. Stir in the chocolate chips and toffee bits by hand.\
 **Note:** Do not use a stand mixer to incorporate the chocolate chips and toffee bits.
 7. Scoop the dough into 2-Tbsp rounds and place onto the prepared cookie sheet. 
 8. (Optional) Sprinkle a small amount of salt over each cookie.
