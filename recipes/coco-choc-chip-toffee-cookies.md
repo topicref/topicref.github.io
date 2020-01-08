@@ -22,6 +22,7 @@ Preheat an oven to 350° F and line a cookie sheet with parchment paper.
 | 1 tsp | salt |
 | 2 c | chocolate chips |
 | ½ c | toffee bits |
+
 ### Directions
 1. In a small bowl, combine the flour, baking powder, and salt.
 2. In a large bowl, beat together the coconut oil and sugars until they are light and fluffy. 
