@@ -4,6 +4,8 @@
 *These are incredible!*
 - Steps 2–5 are easier in a stand mixer. 
 - Strongly recommend using a 2-Tbsp cookie scoop for step 7.
+
+
 ### Before you begin
 Preheat an oven to 350° F and line a cookie sheet with parchment paper.
 ### Ingredients
