@@ -1,0 +1,64 @@
+= Coconut Chocolate Chip Cookies with Toffee Bits
+Jeana Routh <jeana@redhat.com>
+v1.0, 2020.02.27
+
+== Notes
+_These are incredible!_
+
+* Steps 2-5 are easier in a stand mixer.
+* Strongly recommend using a 2-Tbsp cookie scoop for step 7.
+
+== Before you begin
+Preheat an oven to 350° F and line a cookie sheet with parchment paper.
+
+== Ingredients
+|===
+|Amt. |Ingredient
+
+|¾ c
+|coconut oil
+
+|1 c
+|brown sugar
+
+|½ c
+|sugar
+
+|2
+|eggs
+
+|1 tsp
+|vanilla extract
+
+|270 g
+|flour
+
+|1 tsp
+|baking powder
+
+|1 tsp
+|salt
+
+|2 c
+|chocolate chips
+
+|½ c
+|toffee bits
+|===
+
+== Directions
+. In a small bowl, combine the flour, baking powder, and salt.
+. In a large bowl, beat together the coconut oil and sugars until the mixture is light and fluffy.
+. Add the eggs one at a time, beating well after each addition.
+. Mix in the vanilla.
+. Slowly add the flour mixture to the wet mixture.
+. Stir in the chocolate chips and toffee bits by hand.
++
+====
+NOTE: Do not use a stand mixer to incorporate the chocolate chips and toffee bits.
+====
+. Scoop the dough into 2-Tbsp rounds and place onto the prepared cookie sheet.
+. (Optional) Sprinkle a small amount of salt over each cookie.
+. Bake for 10–12 minutes, or until the cookies are slightly golden brown.
+
+_Recipe from https://youarenotsosmart.com/cookie-recipes/coconut-chocolate-chip-cookies[YANSS episode 29^]_
